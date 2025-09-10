@@ -1,4 +1,4 @@
-# EduTutor AI 🎓🤖
+# EduTutor AI 
 
 ---
 
@@ -7,10 +7,6 @@
 - Automatic quiz generator (MCQ, True/False, Short Answer)  
 - Runs on Google Colab with GPU support  
 - Public Gradio link for easy sharing  
-
----
-
-## ▶️ How to Run
 
 ### On Google Colab
 Open directly in Colab:  
